@@ -1,21 +1,3 @@
-<img src="src/images/prueba-fea.svg" width=150px>
-# HappiPainters : refactorizando con React
-
-<img src="src/images/readme-1.png" width=60%>
-<img src="src/images/readme-2.png" width=60%>
-
-**My professional card 📺 es un proyecto sencillo en equipo de desarrollo de una aplicación web que nos permite crear una tarjeta de visita profesional personalizada. Te permite introducir tus datos profesionales y de contacto, tu foto y guardarlo en local storage.**
-
-Comenzando 🚀 Para utilizarla solo necesitas cargar el enlace y....tendrás tu tarjeta profesional un clic de distancia.
-
-Construido con 🛠️ JavaScript (JS), HTML5 y CSS3. Además, nos hemos servido del preprocesador SASS y de Gulp
-
-**Se aceptan expresiones de gratitud tales como una cerveza 🍺 o un café ☕**
-
-**Nombre del equipo - Undefined:**
-
-Demo Para ver el resultado del desarrollo de la página web puedes visitar el siguiente enlace: http://beta.adalab.es/project-promo-m-module-2-team-5/
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
